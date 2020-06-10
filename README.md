@@ -5,3 +5,4 @@ Using Vensim PLE software, I build a model of the Covid 19 outbreak. I apply sys
 1.short recovery duration means shortlived and volitile outburst
 2.vaccine ensures no secondary wave
 3.more non severe cases means more infected at a time
+4.breaking hospital capacity leads to a massive stiletto in deaths
